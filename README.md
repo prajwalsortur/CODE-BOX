@@ -2,7 +2,7 @@
 
 A simple Python web-scraping project that extracts product information from **Smartprix** and presents it as a clean, structured dataset.
 
-## 🚀 Features
+## 🚀 Featuress
 
 * 🔍 Extracts product information from Smartprix
 * 🏪 Finds the available store
